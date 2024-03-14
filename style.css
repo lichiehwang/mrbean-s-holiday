@@ -217,7 +217,7 @@ top:50px;
 /* story */
 #story{
   background-image: url(./img/story.svg);
-  background-size: contain;
+  background-size:  cover;
   background-repeat: no-repeat;
 
  
