@@ -13,7 +13,7 @@ html{
     background-image: url(./img/top-back.svg);
     background-repeat: no-repeat;
     background-size:100vw;
-    height:1100px;
+    height:100%;
     position:relative
 }
 .menu-btn {
